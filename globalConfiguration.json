@@ -1,5 +1,5 @@
 {
-  "$schema": "https://github.com/AndreyGruzkov/ML_Test/new/main/globalConfiguration.json",
+  "$schema": "https://github.com/AndreyGruzkov/ML_Test/blob/main/globalConfiguration.json",
   "v8version": "8.3",
   "srcDir": "src/cf",
   "sourceFormat": "designer",
@@ -9,7 +9,7 @@
     "storage": "UNKNOWN_ID"
   },
   "stages": {
-    "initSteps": false,
+    "initSteps": true,
     "sonarqube": false,
     "bdd": false,
     "syntaxCheck": false,
