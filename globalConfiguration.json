@@ -10,7 +10,7 @@
   },
   "stages": {
     "initSteps": true,
-    "sonarqube": false,
+    "sonarqube": true,
     "bdd": false,
     "syntaxCheck": false,
     "edtValidate": false,
