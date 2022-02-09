@@ -1,5 +1,5 @@
 {
-  "$schema": "https://github.com/AndreyGruzkov/ML_Test/blob/main/globalConfiguration.json",
+  "$schema": "https://github.com/AndreyGruzkov/ML_Test/blob/main/schema.json",
   "v8version": "8.3.17.2198",
   "srcDir": "src/cf",
   "sourceFormat": "designer",
